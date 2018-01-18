@@ -1,0 +1,90 @@
+@media all and (max-width: 1024px) {
+  #carousel_media_q {
+    display: none; }
+
+  #hidden_card {
+    display: none; }
+
+  .jumbotron {
+    display: none; }
+
+  #hiden_card {
+    margin-bottom: 5%; } }
+@media all and (min-width: 1023px) {
+  #hiden_card {
+    display: none; } }
+body, html {
+  margin: 0 auto;
+  background-color: #749079 !important;
+  padding-top: 10px; }
+
+[class*="col-"], footer {
+  text-align: center;
+  padding: 1%; }
+  [class*="col-"] article, footer article {
+    background-color: #749079 !important; }
+  [class*="col-"] img, footer img {
+    background-color: #749079 !important; }
+
+#carouselExampleIndicators {
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 5%;
+  margin-bottom: 2%; }
+  #carouselExampleIndicators img {
+    height: 150% !important; }
+
+.container {
+  text-align: center; }
+
+#pub img {
+  margin-top: 5%; }
+
+.card-img-top {
+  width: 100%; }
+
+header {
+  background-color: white;
+  padding-bottom: 2%; }
+
+.navbar {
+  background-color: #749079 !important; }
+
+#promo {
+  margin-top: 5%; }
+
+#pub1 img {
+  margin-top: -20%; }
+
+#pub2 img {
+  margin-top: -20%; }
+
+#main_carte {
+  margin-top: 5%;
+  margin-bottom: 5%; }
+  #main_carte img {
+    width: 30%; }
+
+#restaurants .card {
+  margin: 1%; }
+
+/*.card-body{
+    background-color: #749079;
+}*/
+.card-header {
+  background-color: #869989; }
+  .card-header a {
+    color: black !important; }
+
+#coupons {
+  margin-top: 5%; }
+
+#p_scout {
+  margin-left: 1%;
+  margin-right: 1%; }
+
+#photo_scout {
+  width: 100%; }
+
+/*# sourceMappingURL=style.css.map */
